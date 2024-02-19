@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlalov-hub&label=Profile%20views&color=0e75b6&style=flat" alt="alexlalov-hub" /> </p>
 
-- 🌱 I’m currently learning **Python and ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core and Java**
 
 - 📫 How to reach me **alex.lalov04@gmail.com**
 
